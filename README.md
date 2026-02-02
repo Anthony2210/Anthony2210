@@ -16,7 +16,7 @@ Domaines : Data Science, Data Analysis, Data Engineering
 Collecte terrain (station météo mobile), traitement et analyse de séries temporelles, statistiques + deep learning.  
 Développement d’un module d’explicabilité de clusters et recherche de patterns.
 
-## Projets à voir en priorité
+## Projets
 - **World Happiness** : notebook d’analyse statistique et modélisation  
 - **PureOxy** : plateforme qualité de l’air : data + visualisations + prédictions ML  
 - **VG-Analytics** : analyse de ventes Steam : stats, insights, dataviz  
