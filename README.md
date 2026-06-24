@@ -1,27 +1,38 @@
-# Anthony COMBES--AGUÉRA
+# Anthony COMBES-AGUÉRA
 
-Master 1 MIASHS (Data Science) - Montpellier  
-Recherche : stage dès maintenant + alternance (M2) à partir de septembre 2026  
-Domaines : Data Science, Data Analysis, Data Engineering
+Master MIASHS, parcours sciences des données.  
+Recherche une alternance de deux ans à partir de septembre 2026 en Data Science, Data Analysis ou développement data.
 
-## Ce que je sais faire
-- Analyse et préparation de données (Python, SQL, R)
-- Modélisation (scikit-learn, bases de deep learning)
-- Dataviz (Power BI, D3.js)
-- Mise en production (API, scripts, automatisations)
-- Outils : Git, Docker
+## Compétences
 
-## Expérience / projet de recherche
-**Au LIRMM, sur le projet ANR PICOPATT (équipe ADVANSE)**  
-Collecte terrain (station météo mobile), traitement et analyse de séries temporelles, statistiques + deep learning.  
-Développement d’un module d’explicabilité de clusters et recherche de patterns.
+Python, R, SQL, pandas, NumPy, scikit-learn, analyse statistique, séries temporelles, visualisation de données, Django, React et PostgreSQL.
+
+## Expériences
+
+- **POLYPBASE, Aquarium de Paris**  
+  Conception d'une application métier pour le suivi de polypes et d'éphyrules. Analyse des besoins, modélisation des données et architecture avec Django, React et PostgreSQL.
+
+- **Projet ANR PICOPATT, LIRMM**  
+  Participation aux campagnes de mesure, stage data puis TER sur des données météorologiques spatio-temporelles. Travail en Python sur l'explicabilité de clusters avec SHAP et la recherche de motifs par similarité.
 
 ## Projets
-- **World Happiness** : notebook d’analyse statistique et modélisation  
-- **PureOxy** : plateforme qualité de l’air : data + visualisations + prédictions ML  
-- **VG-Analytics** : analyse de ventes Steam : stats, insights, dataviz  
-- **Clusters-Predictions** : clustering + prédiction (approches ML)
 
-## Me contacter
-- Email : acombesaguera@gmail.com
-- LinkedIn : https://linkedin.com/in/anthony-combes-aguéra-268109343
+- **[TER PICOPATT](https://github.com/bouyaka34/TER-Picopatt)**  
+  Traitement de 341 281 mesures, validation spatio-temporelle et création de [Picocarte](https://picocarte.alwaysdata.net), avec 1 469 430 prédictions sur environ 147 km².
+
+- **[FreshOrRotten](https://github.com/Anthony2210/FreshOrRotten)**  
+  Classification d'images par CNN sur 53 616 images, 22 types de produits et 44 classes.
+
+- **[World Happiness](https://github.com/Anthony2210/world-happiness)**  
+  Analyse de 152 pays entre 2015 et 2023, ACP et régressions linéaires avec validation croisée.
+
+- **[PureOxy](https://github.com/Anthony2210/PureOxy)**  
+  Contribution à une plateforme de visualisation de la qualité de l'air de 276 villes françaises, avec carte interactive, recherche dynamique et graphiques.
+
+- **[POLYPBASE](https://github.com/Anthony2210/POLYPBASE)**  
+  Application métier de suivi biologique et de saisie de relevés en laboratoire.
+
+## Liens
+
+- [LinkedIn](https://www.linkedin.com/in/anthony-combes-agu%C3%A9ra/)
+- [Picocarte](https://picocarte.alwaysdata.net)
